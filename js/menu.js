@@ -8,3 +8,7 @@ document.getElementById('menu-button').onclick = (e) => {
     s == 'tul' ? (list.style.display = '', tul.style.display = 'none') : (list.style.display = 'none', tul.style.display = '');
     s = s == 'tul' ? 'list' : 'tul';
 }
+
+document.getElementById('head-logo').getElementsByTagName('img')[0].onclick = () => {
+    window.location.href = 'index.html'
+}
