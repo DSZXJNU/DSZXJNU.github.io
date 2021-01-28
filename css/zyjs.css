@@ -1,0 +1,41 @@
+#yj-nav p, #zy-nav p {
+    margin: 0;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    width: 100%;
+    background-color: #E5EFF0;
+    text-align: center;
+    color: #085b68;
+    font-weight: bold;
+}
+
+#tul-body {
+    width: 100%;
+}
+
+#tul-body table, #tul-body tr {
+    width: 100%;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+
+#tul-body a {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-td {
+    width: 22%;
+    height: 30px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 0.5em;
+    font-size: 11px;
+    text-align: center;
+    background-color: #0F6A7B;
+}
+
+.blank-td{
+    width: 10%;
+}
